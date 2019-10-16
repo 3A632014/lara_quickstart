@@ -1,6 +1,3 @@
-<?php
-// resources/views/common/errors.blade.php
-
 @if (count($errors) > 0)
     <!-- 表單錯誤清單 -->
     <div class="alert alert-danger">
